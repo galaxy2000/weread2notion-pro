@@ -24,7 +24,7 @@
 | <div align="center"><img src="https://images.malinkang.com/2024/04/2dba3fdad0dbe53663c4de076b36baed.jpg" ></div> | <div align="center"><img src="https://images.malinkang.com/2024/04/b225b17d60670e4a6ff3459bbde80d28.jpg" width="50%"></div> |
 
 
-## 捐赠
+## 捐赠。  
 
 如果你觉得本项目帮助了你，请作者喝一杯咖啡，你的支持是作者最大的动力。本项目会持续更新。
 
